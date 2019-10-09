@@ -1,7 +1,7 @@
 <?php 
 // Something I know PHPCS would flag
 
-$foo = 'testing';
+$bar = 'testing';
 if ( $_COOKIE['test'] ) {
-  echo $foo;
+  echo $bar;
 }
