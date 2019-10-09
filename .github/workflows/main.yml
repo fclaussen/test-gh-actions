@@ -13,4 +13,4 @@ jobs:
       env:
         GH_BOT_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
       with:
-        args: "WordPress,WordPress-Core,WordPress-Docs"
+        args: "WordPress-VIP-Go"
