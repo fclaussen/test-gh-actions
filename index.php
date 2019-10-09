@@ -5,3 +5,4 @@ $bar = 'testing';
 if ( $_COOKIE['test'] ) {
   echo $bar;
 }
+
